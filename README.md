@@ -46,7 +46,7 @@ To access the information stored in this repository, navigate through the folder
 
 ## Code of Conduct
 
-We have a code of conduct in place to ensure a respectful and inclusive environment for everyone participating in our Cloud Native Basel meetups. Please review and adhere to our [Code of Conduct](code-of-conduct.md) to maintain a positive and welcoming atmosphere.
+We have a code of conduct in place to ensure a respectful and inclusive environment for everyone participating in our Cloud Native Basel meetups. Please review and adhere to our [Code of Conduct](CODE-OF-CONDUCT.md) to maintain a positive and welcoming atmosphere.
 
 ## Contact
 
