@@ -24,7 +24,7 @@ Das Cloud Native Ökosystem umfasst verschiedene Aspekte, Schlüsseltechnologien
 Serverless Computing: Serverless-Plattformen, wie AWS Lambda, Azure Functions und Google Cloud Functions, ermöglichen es Entwicklern, Code auszuführen, ohne Server bereitstellen oder verwalten zu müssen, was ereignisgesteuerte, hoch skalierbare Architekturen ermöglicht.
 
 - **CI/CD Pipelines:** Kontinuierliche Integration und kontinuierliche Bereitstellung (CI/CD) automatisieren das Erstellen, Testen und Bereitstellen von Cloud-Native-Anwendungen, was häufige Releases und effiziente Entwicklungsworkflows gewährleistet.
-- 
+
 - **WebAssembly:** WebAssembly (Wasm) ist ein Binäranweisungsformat, das das Ausführen von Hochleistungscode im Web ermöglicht. Es ermöglicht das Ausführen von Code, der in verschiedenen Programmiersprachen wie C, C++, Rust und TypeScript geschrieben wurde, im Browser. WebAssembly wird zunehmend im Cloud Native Ökosystem genutzt, um die Leistung, Portabilität und Interoperabilität von Webanwendungen zu verbessern.
 
 - **Web-Entwicklung:** Cloud-Native-Web-Entwicklung konzentriert sich auf den Aufbau skalierbarer, containerisierter Webanwendungen, die mit Cloud-Native-Technologien und -Praktiken bereitgestellt und verwaltet werden können. Dies beinhaltet die Nutzung von Frameworks wie React, Angular und Vue.js, serverlosen Architekturen, CDN-basierte Content Delivery und Cloud-Native-Datenbanken und Speicherlösungen. Web-Entwickler im Cloud Native Ökosystem zielen darauf ab, effiziente, skalierbare und resiliente Webanwendungen zu erstellen, die nahtlos mit anderen Cloud-Native-Komponenten integriert werden können.
