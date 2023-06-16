@@ -5,7 +5,7 @@ Here are definitions for each item in the alphabetical list of Cloud Native term
 - **Auto Scaling:** Capability to automatically adjust the number of resources based on workload demands.
 
 - **Abstraction**: In computing, abstraction is a process by which unnecessary details are hidden from the user. The user can utilize the functionality without knowing how it works internally.
-- 
+
 - **Agile Software Development**: A set of principles for software development under which requirements and solutions evolve through the collaborative effort of self-organizing cross-functional teams.
 
 - **API Gateway**: A server that acts as an API front-end, receives API requests, enforces throttling and security policies, passes requests to the back-end service and then passes the response back to the requester.
