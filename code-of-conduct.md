@@ -18,6 +18,10 @@ Keep the atmosphere positive and uplifting. Avoid derogatory, offensive, or disc
 
 Always ask for consent and respect personal boundaries when interacting with others. Be mindful of individual comfort levels when engaging in discussions or social interactions. Remember, everyone has the right to participate without feeling pressured or uncomfortable.
 
+## Avoid Commercial Activities
+
+Cloud Native Basel is intended to have a "by the community for the community" character. As such, it is not a platform for selling products or engaging in overly commercial activities. We encourage a focus on knowledge sharing, collaboration, and building strong community connections.
+
 ## Report Concerns
 
 If you witness or experience any violations of this Code of Conduct or have any concerns, please bring it to the attention of the organizing team. You can reach out to us via email at [info@cloudnativebasel.ch](mailto:info@cloudnativebasel.ch). We are here to address any issues and ensure a safe and inclusive community for all.
