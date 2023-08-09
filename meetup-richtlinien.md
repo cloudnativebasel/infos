@@ -1,6 +1,6 @@
 # Cloud Native Basel - Meetup-Richtlinien
 
-Willkommen beim Cloud Native Basel Meetup! Wir freuen uns, dich in unserer lebendigen Community begrüßen zu dürfen. Um sicherzustellen, dass unsere Meetups für alle angenehm und vorteilhaft sind, haben wir folgende Richtlinien festgelegt:
+Willkommen beim Cloud Native Basel Meetup! Wir freuen uns, dich in unserer lebendigen Community begrüssen zu dürfen. Um sicherzustellen, dass unsere Meetups für alle angenehm und vorteilhaft sind, haben wir folgende Richtlinien festgelegt:
 
 ## Sei Respektvoll und Inklusiv
 
@@ -24,11 +24,11 @@ Folge den Anweisungen und Richtlinien, die von den Organisatoren und Gastgebern 
 
 ## Vermeide Kommerzielle Aktivitäten
 
-Cloud Native Basel Meetups haben den Charakter "von der Gemeinschaft für die Gemeinschaft". Daher sind sie nicht als Plattformen für den Verkauf von Produkten oder die Teilnahme an übermäßig kommerziellen Aktivitäten gedacht. Wir ermutigen dazu, den Fokus auf den Austausch von Wissen, Zusammenarbeit und den Aufbau starker Gemeinschaftsverbindungen zu legen.
+Cloud Native Basel Meetups haben den Charakter "von der Gemeinschaft für die Gemeinschaft". Daher sind sie nicht als Plattformen für den Verkauf von Produkten oder die Teilnahme an übermässig kommerziellen Aktivitäten gedacht. Wir ermutigen dazu, den Fokus auf den Austausch von Wissen, Zusammenarbeit und den Aufbau starker Gemeinschaftsverbindungen zu legen.
 
-## Hab Spaß und Vernetze dich
+## Hab Spass und Vernetze dich
 
-Genieße die Zeit bei unseren Meetups! Nutze die Gelegenheit zum Netzwerken, knüpfe neue Verbindungen und trete mit anderen Cloud-Native-Enthusiast:innen in Kontakt. Teile deine Erfahrungen, Herausforderungen und Erfolge. Der Aufbau einer starken Gemeinschaft und die Förderung von Verbindungen sind ein wesentlicher Teil von Cloud Native Basel.
+Geniesse die Zeit bei unseren Meetups! Nutze die Gelegenheit zum Netzwerken, knüpfe neue Verbindungen und trete mit anderen Cloud-Native-Enthusiast:innen in Kontakt. Teile deine Erfahrungen, Herausforderungen und Erfolge. Der Aufbau einer starken Gemeinschaft und die Förderung von Verbindungen sind ein wesentlicher Teil von Cloud Native Basel.
 
 Denke daran, der Erfolg unserer Meetups hängt von der aktiven Teilnahme und Zusammenarbeit aller Teilnehmer:innen ab. Lassen wir eine Umgebung schaffen, in der wir lernen, zusammenarbeiten und uns auf unseren Cloud-Native-Wegen unterstützen können.
 
