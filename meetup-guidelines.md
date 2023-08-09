@@ -22,10 +22,14 @@ Please arrive on time for the meetup and adhere to the designated schedule. We v
 
 Follow the instructions and guidelines provided by the meetup organizers and hosts. They are dedicated to creating a positive and seamless experience for everyone. If you have any questions or concerns during the meetup, don't hesitate to reach out to the organizers for assistance.
 
+## Avoid Commercial Activities
+
+Cloud Native Basel meetups are intended to have a "by the community for the community" character. As such, they are not platforms for selling products or engaging in overly commercial activities. We encourage a focus on knowledge sharing, collaboration, and building strong community connections.
+
 ## Have Fun and Connect
 
 Enjoy yourself at our meetups! Take the opportunity to network, make new connections, and engage with fellow cloud native enthusiasts. Share your experiences, challenges, and successes. Building a strong community and fostering connections is an essential part of Cloud Native Basel.
 
 Remember, the success of our meetups depends on the active participation and cooperation of all attendees. Let's create an environment where we can learn, collaborate, and support each other in our cloud native journeys.
 
-If you have any suggestions, feedback, or concerns related to our meetups or these guidelines, please reach out to the organizing team. We appreciate your involvement and look forward to meeting you at our next Cloud Native Basel meetup!
+If you have any suggestions, feedback, or concerns related to our meetups or these guidelines, please reach out to the organizing team. We appreciate your involvement and look forward to meeting you at our next Cloud Native Basel meetup!"
